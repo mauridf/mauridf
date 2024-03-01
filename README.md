@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **mauridf/mauridf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/mauridf/mauridf/assets/847066/3a3cd9cf-0e9a-4263-b6fe-04c043092ade)
