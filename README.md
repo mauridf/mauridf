@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauridf&" alt="mauridf" /></p>
 
-![image](https://github.com/mauridf/mauridf/assets/847066/3a3cd9cf-0e9a-4263-b6fe-04c043092ade)
